@@ -1,4 +1,3 @@
 Initial content
 Developer B's changes
 Devloper A's changes
-More content
